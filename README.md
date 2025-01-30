@@ -1,7 +1,7 @@
-# Feminist Urban Design: AI-Powered Analysis of Public Space Safety
+# Integrating artificial intelligence (AI) and feminist urban design.
 
 ## Overview
-This repository contains the research project "Integrating artificial intelligence (AI) and feminist urban design: A comparative study in South America and Southeast Asian public space". The study combines AI models with feminist urban design principles to analyze safety perceptions in public spaces across nine medium-sized cities in South America and Southeast Asia, focusing on low-income peripheral neighborhoods.
+This repository contains the research paper "Integrating artificial intelligence (AI) and feminist urban design: A comparative study in South America and Southeast Asian public space". The study combines AI models with feminist urban design principles to analyze safety perceptions in public spaces across nine medium-sized cities in South America and Southeast Asia, focusing on low-income peripheral neighborhoods.
 
 ## Repository Structure
 ```bibtex
