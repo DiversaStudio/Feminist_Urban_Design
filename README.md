@@ -52,7 +52,7 @@ Special thanks to Vasconez J. & Mosquera K. for their contributions to this rese
 
 ## Citation
 ```bibtex
-@article{medina2025integrating,
+@article{
   title={Integrating artificial intelligence (AI) and feminist urban design: A comparative study in South America and Southeast Asian public space},
   author={Medina, A. and Mosquera, D. and Gallegos, F.},
   year={2025}
