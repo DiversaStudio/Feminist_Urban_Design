@@ -4,11 +4,12 @@
 This repository contains the research project "Integrating artificial intelligence (AI) and feminist urban design: A comparative study in South America and Southeast Asian public space". The study combines AI models with feminist urban design principles to analyze safety perceptions in public spaces across nine medium-sized cities in South America and Southeast Asia, focusing on low-income peripheral neighborhoods.
 
 ## Repository Structure
-
+```bibtex
 ├── AISegmentation/       # AI models and segmentation analysis notebooks
 ├── DataExtraction/      # Scripts for data collection and processing
 ├── SuperResolution/     # Image enhancement using Real-ESRGAN
 └── results/            # Output files, visualizations, and analysis results
+```
 
 ## Methodology
 1. **Data Collection**: Street-level images were systematically collected around bus stops using Google Street View API
